@@ -1,5 +1,5 @@
 # Shivammodi
-
+![logo](https://github.com/Modishivam/shivammodi/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shivam Modi</h1>
 <h3 align="center">A passionate Engineer from India</h3>
