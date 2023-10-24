@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently looking Job **Data Analyst**
 - 📫 How to reach me **modishivam4067@gmail.com**
 - ⚡ Fun fact **I am funny😅**
 
@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/@modishivam4067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@modishivam4067" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left,python, SQL">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
